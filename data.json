@@ -1,0 +1,21 @@
+[
+    {
+        "id": 1,
+        "newsName": "News for today is the news",
+        "date": "2024-06-12",
+        "img":"FRASERPLACE_KITCHENAREA.jpg"
+
+    },
+    {
+        "id": 2,
+        "newsName": "News for today is the news 1",
+        "date": "2024-06-13",
+        "img":"FRASERPLACE_DININGROOM.jpg"
+    },
+    {
+        "id": 3,
+        "newsName": "News for today is the news 3",
+        "date": "2024-06-20",
+        "img":"FRASERPLACE_BATHROOM.jpg"
+    }
+]
